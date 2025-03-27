@@ -1,0 +1,245 @@
+{
+  "common": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "help": "Help",
+    "login": "Login",
+    "signup": "Sign Up",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "startFree": "Start Free Now",
+    "more": "More"
+  },
+  "dashboard": {
+    "sidebar": {
+      "overview": "Overview",
+      "linkManagement": "LINK MANAGEMENT",
+      "myLinks": "My Links",
+      "salinks": "SALinks",
+      "formBuilder": "Form Builder",
+      "linkShortener": "Link Shortener",
+      "pageCustomizer": "Page Customizer",
+      "insights": "INSIGHTS",
+      "analytics": "Analytics",
+      "settings": "SETTINGS",
+      "apiSettings": "API Settings",
+      "paymentGateways": "Payment Gateways"
+    },
+    "overview": {
+      "title": "Dashboard Overview",
+      "totalLinks": "Total Links",
+      "totalClicks": "Total Clicks",
+      "activeLinks": "Active Links",
+      "revenue": "Revenue",
+      "recentLinks": "Recent Links",
+      "viewAll": "View All",
+      "edit": "Edit",
+      "stats": "Stats",
+      "clicks": "clicks",
+      "daysAgo": "days ago"
+    }
+  },
+  "hero": {
+    "title": "Salink Link Management System",
+    "subtitle": "The optimal solution for shortening links and organizing them hierarchically with advanced customization capabilities"
+  },
+  "features": {
+    "title": "Salink Features",
+    "subtitle": "Discover all the powerful features that Salink offers to efficiently manage your links",
+    "sectionTitle": "Powerful Features for Link Management",
+    "sectionSubtitle": "Salink provides everything you need to create, organize, and monetize your links efficiently",
+    "hierarchicalLinks": {
+      "title": "Hierarchical Links",
+      "description": "Organize your links hierarchically with an easy-to-use drag-and-drop interface for simple management"
+    },
+    "buttonCustomization": {
+      "title": "Button Customization",
+      "description": "Design beautiful buttons with custom colors, gradients, fonts, and animations to match your brand identity"
+    },
+    "paymentIntegration": {
+      "title": "Payment Integration",
+      "description": "Seamless integration with Saudi payment gateways including Mada, Apple Pay, and My Fatoorah"
+    },
+    "advancedAnalytics": {
+      "title": "Advanced Analytics",
+      "description": "Track clicks, geographic location, devices, and payment metrics with comprehensive visual reports"
+    },
+    "integratedProtection": {
+      "title": "Integrated Protection",
+      "description": "Complete protection for your link with advanced encryption, malware protection, and regular security updates"
+    },
+    "superiorPerformance": {
+      "title": "Superior Performance",
+      "description": "Ultra-fast loading speed and high availability to ensure users can access your links at any time"
+    },
+    "multiLanguageSupport": {
+      "title": "Multi-language Support",
+      "description": "Full support for Arabic and English with the ability to add other languages upon request"
+    }
+  },
+  "pricing": {
+    "title": "Pricing Plans",
+    "subtitle": "Choose the plan that suits your needs with the ability to upgrade at any time",
+    "free": {
+      "title": "Free",
+      "price": "Free",
+      "description": "Perfect for personal use and small projects",
+      "features": [
+        "Up to 50 links",
+        "Basic hierarchical organization",
+        "Limited button customization",
+        "Basic statistics",
+        "Email support"
+      ],
+      "cta": "Start Free"
+    },
+    "pro": {
+      "title": "Professional",
+      "price": "39 SAR",
+      "period": "/ monthly",
+      "description": "For small businesses and influencers",
+      "features": [
+        "Unlimited links",
+        "Advanced hierarchical organization",
+        "Full button customization",
+        "Advanced analytics",
+        "Payment integration",
+        "24/7 technical support"
+      ],
+      "cta": "Subscribe Now",
+      "popular": "Most Popular"
+    },
+    "enterprise": {
+      "title": "Enterprise",
+      "price": "99 SAR",
+      "period": "/ monthly",
+      "description": "For large companies and organizations",
+      "features": [
+        "All Professional plan features",
+        "API access",
+        "Integration with company systems",
+        "Dedicated account manager",
+        "Team training",
+        "Custom reports"
+      ],
+      "cta": "Contact Us"
+    }
+  },
+  "help": {
+    "title": "Help Center",
+    "subtitle": "We're here to help you. Search for answers to your questions or contact us directly",
+    "searchPlaceholder": "Search for a question...",
+    "supportOptions": {
+      "chat": {
+        "title": "Live Chat",
+        "description": "Talk to our support team directly for immediate assistance",
+        "cta": "Start Chat"
+      },
+      "email": {
+        "title": "Email",
+        "description": "Send us an email and we'll respond within 24 hours",
+        "cta": "Send Email"
+      },
+      "docs": {
+        "title": "Documentation",
+        "description": "Explore the detailed user guide and technical documentation",
+        "cta": "View Documentation"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "questions": {
+        "createAccount": {
+          "question": "How do I create a new account?",
+          "answer": "You can create a new account by clicking the \"Sign Up\" button on the homepage. You'll need to provide your email and create a password. After that, you'll receive a confirmation email to activate your account."
+        },
+        "createShortLink": {
+          "question": "How do I create a short link?",
+          "answer": "After logging into your account, go to the dashboard and click on \"Create New Link\". Enter the original link and choose a custom name if you wish. You can also organize links in hierarchical folders for easy management."
+        },
+        "customizeButtons": {
+          "question": "How can I customize link buttons?",
+          "answer": "In the dashboard, select the link you want to customize and click on \"Customize\". You can choose from a variety of styles, colors, and effects to customize the button's appearance. You can also add icons and change fonts to match your visual identity."
+        },
+        "integratePayments": {
+          "question": "How can I integrate payments with my links?",
+          "answer": "Payment integration requires a subscription to the Professional or Enterprise plan. After upgrading, go to the link settings and enable the \"Payment Integration\" option. You can then connect your account to supported payment gateways such as Mada, Apple Pay, and My Fatoorah, and specify the amount, currency, and product description."
+        },
+        "accessAnalytics": {
+          "question": "How can I access link analytics?",
+          "answer": "You can access link analytics through the dashboard by clicking on the \"Analytics\" tab. There you'll find detailed statistics about the number of clicks, geographic location of visitors, devices used, and payment information if you've enabled this feature."
+        }
+      }
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "subtitle": "Enter your account details to access the dashboard",
+      "formTitle": "Login to Your Account",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "password": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot password?",
+      "submit": "Sign In",
+      "noAccount": "Don't have an account?",
+      "createAccount": "Create a new account"
+    },
+    "signup": {
+      "title": "Create a New Account",
+      "subtitle": "Create your account to access all Salink features",
+      "formTitle": "Create an Account",
+      "email": "Email",
+      "emailPlaceholder": "your.email@example.com",
+      "username": "Username",
+      "usernamePlaceholder": "username",
+      "password": "Password",
+      "passwordPlaceholder": "••••••••",
+      "confirmPassword": "Confirm Password",
+      "confirmPasswordPlaceholder": "••••••••",
+      "acceptTerms": "I accept the terms and conditions",
+      "submit": "Sign Up",
+      "submitting": "Creating Account...",
+      "haveAccount": "Already have an account?",
+      "login": "Sign in"
+    }
+  },
+  "footer": {
+    "site": {
+      "title": "Site",
+      "home": "Home",
+      "features": "Features",
+      "pricing": "Pricing",
+      "help": "Help"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "team": "Our Team",
+      "careers": "Careers",
+      "contact": "Contact Us"
+    },
+    "resources": {
+      "title": "Resources",
+      "blog": "Blog",
+      "faq": "FAQ",
+      "docs": "Documentation",
+      "terms": "Terms & Conditions"
+    },
+    "connect": {
+      "title": "Connect With Us"
+    },
+    "copyright": "© 2024 Salink. All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "cookies": "Cookie Policy"
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode",
+    "system": "System Settings"
+  }
+}
